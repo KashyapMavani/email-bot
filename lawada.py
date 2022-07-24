@@ -1,0 +1,1 @@
+print("lawada ka python")
